@@ -1,0 +1,6 @@
+﻿CREATE SEQUENCE [dbo].[shipment_seq]
+    AS BIGINT
+    START WITH 1293846
+    INCREMENT BY 1
+    CACHE 10;
+

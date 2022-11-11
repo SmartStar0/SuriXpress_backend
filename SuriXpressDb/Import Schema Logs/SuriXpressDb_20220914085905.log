@@ -1,0 +1,87 @@
+14-9-2022 22:59:05	This log contains information about the import schema operation into project 'SuriXpressDb' on computer 'LAPTOP-SVNGEM4O' by user 'Winston Hoost'.
+14-9-2022 22:59:06	Import of database schema has started.
+14-9-2022 22:59:18	Gathering database credentials
+14-9-2022 22:59:18	Gathering database options
+14-9-2022 22:59:18	Gathering generic database scoped configuration option
+14-9-2022 22:59:18	Gathering users
+14-9-2022 22:59:18	Gathering roles
+14-9-2022 22:59:18	Gathering application roles
+14-9-2022 22:59:18	Gathering role memberships
+14-9-2022 22:59:18	Gathering filegroups
+14-9-2022 22:59:18	Gathering full-text catalogs
+14-9-2022 22:59:18	Gathering assemblies
+14-9-2022 22:59:18	Gathering certificates
+14-9-2022 22:59:18	Gathering asymmetric keys
+14-9-2022 22:59:18	Gathering symmetric keys
+14-9-2022 22:59:18	Gathering encrypted symmetric keys
+14-9-2022 22:59:18	Gathering schemas
+14-9-2022 22:59:18	Gathering XML schema collections
+14-9-2022 22:59:18	Gathering user-defined data types
+14-9-2022 22:59:18	Gathering user-defined types
+14-9-2022 22:59:18	Gathering table types
+14-9-2022 22:59:18	Gathering unique keys for table types
+14-9-2022 22:59:18	Gathering primary keys for table types
+14-9-2022 22:59:18	Gathering indexes for table types
+14-9-2022 22:59:18	Gathering check constraints for table types
+14-9-2022 22:59:18	Gathering default constraints for table types
+14-9-2022 22:59:18	Gathering partition functions
+14-9-2022 22:59:18	Gathering partition schemes
+14-9-2022 22:59:18	Gathering functions
+14-9-2022 22:59:18	Gathering encrypted functions
+14-9-2022 22:59:18	Gathering aggregates
+14-9-2022 22:59:18	Gathering procedures
+14-9-2022 22:59:18	Gathering encrypted procedures
+14-9-2022 22:59:18	Gathering tables
+14-9-2022 22:59:18	Gathering primary keys
+14-9-2022 22:59:18	Gathering unique constraints
+14-9-2022 22:59:18	Gathering foreign keys
+14-9-2022 22:59:18	Gathering default constraints
+14-9-2022 22:59:18	Gathering check constraints
+14-9-2022 22:59:18	Gathering views
+14-9-2022 22:59:18	Gathering encrypted views
+14-9-2022 22:59:18	Gathering indexes
+14-9-2022 22:59:18	Gathering statistics
+14-9-2022 22:59:18	Gathering full-text index stoplists
+14-9-2022 22:59:18	Gathering search property lists
+14-9-2022 22:59:18	Gathering search properties
+14-9-2022 22:59:18	Gathering full-text indexes
+14-9-2022 22:59:18	Gathering column store indexes
+14-9-2022 22:59:18	Gathering spatial indexes
+14-9-2022 22:59:18	Gathering XML indexes
+14-9-2022 22:59:18	Gathering Selective XML indexes
+14-9-2022 22:59:19	Gathering encrypted triggers
+14-9-2022 22:59:19	Gathering triggers
+14-9-2022 22:59:19	Gathering encrypted and clr ddl triggers
+14-9-2022 22:59:19	Gathering ddl triggers
+14-9-2022 22:59:19	Creating edge constraints
+14-9-2022 22:59:19	Gathering synonyms
+14-9-2022 22:59:19	Gathering defaults
+14-9-2022 22:59:19	Gathering data constraint uddt bindings
+14-9-2022 22:59:19	Gathering rules
+14-9-2022 22:59:19	Gathering data constraint uddt bindings
+14-9-2022 22:59:19	Gathering message types
+14-9-2022 22:59:19	Gathering queues
+14-9-2022 22:59:19	Gathering contracts
+14-9-2022 22:59:19	Gathering services
+14-9-2022 22:59:19	Gathering event notifications
+14-9-2022 22:59:19	Gathering remote service bindings
+14-9-2022 22:59:19	Gathering broker priorities
+14-9-2022 22:59:19	Gathering signatures
+14-9-2022 22:59:19	Gathering data compression options
+14-9-2022 22:59:19	Gathering sequence types
+14-9-2022 22:59:19	Gathering security policies
+14-9-2022 22:59:19	Gather column encryption keys
+14-9-2022 22:59:19	Gathering column master keys
+14-9-2022 22:59:19	Gathering external data sources
+14-9-2022 22:59:19	Gathering external file formats
+14-9-2022 22:59:19	Gathering external tables
+14-9-2022 22:59:19	Gathering extended properties
+14-9-2022 22:59:19	Gathering assemblies
+14-9-2022 22:59:19	Gathering credentials
+14-9-2022 22:59:19	Gathering logins
+14-9-2022 22:59:19	Gathering server audits
+14-9-2022 22:59:21	Scanning project for duplicate elements
+14-9-2022 22:59:21	Finished duplicate element processing
+14-9-2022 22:59:22	Finished importing database.
+14-9-2022 22:59:22	A summary of the import was saved to the following location: C:\Users\Winston Hoost\source\repos\SuriXpress\SuriXpressDb\Import Schema Logs\SuriXpressDb_20220914085905.log
+14-9-2022 22:59:22	Click Finish to continue...
