@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[AspNetUsers]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[AspNetUsers] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_AspNetUserClaims_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserLogins_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserRoles_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserTokens_AspNetUsers_UserId] (Foreign Key)
+     Create
+       [dbo].[AspNetUsers].[EmailIndex] (Index)
+       [dbo].[AspNetUsers].[UserNameIndex] (Index)
+       [dbo].[FK_AspNetUserClaims_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserLogins_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserRoles_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserTokens_AspNetUsers_UserId] (Foreign Key)

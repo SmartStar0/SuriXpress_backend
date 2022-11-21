@@ -12,7 +12,7 @@ namespace Infrastructure.Data.Repositories
     public class ShipmentRepository : IShipmentRepository
     {
 
-        private readonly AppDbContext _context
+        private readonly AppDbContext _context;
 
         public ShipmentRepository(AppDbContext context)
         {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\API\\API.csproj": {}
+    "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\API\\API.csproj": {
+    "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Winston Hoost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\API\\obj\\",
+        "projectPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\VHK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Winston Hoost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VHK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj"
+              "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -120,7 +120,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,21 +133,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj": {
+    "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Winston Hoost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\VHK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Winston Hoost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VHK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -241,7 +242,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -250,21 +252,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Winston Hoost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\VHK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Winston Hoost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VHK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -278,8 +280,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Winston Hoost\\source\\repos\\SuriXpress\\Domain\\Domain.csproj"
+              "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\VHK\\Downloads\\SuriXpress-main\\Domain\\Domain.csproj"
               }
             }
           }
@@ -367,7 +369,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -376,7 +379,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
