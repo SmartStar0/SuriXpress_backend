@@ -26,7 +26,7 @@ namespace API.Controllers
 
 
         // GET: api/<ShipmentController>
-        [HttpGet]
+        [HttpGet("list")]
         public async Task<IActionResult> GetAllShipmentsAsync()
         {
            try
@@ -43,6 +43,22 @@ namespace API.Controllers
             }
         }
 
-       
+        [HttpGet("detail")]
+        [Authorize(Roles = Roles.Admin)]
+        public async Task<IActionResult> GetShipmentDetailsAsync()
+        {
+            try
+            {
+
+                var shipments = await _shipmentrepo.GetAllShipments();
+                return Ok(shipments);
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.Message);
+
+            }
+        }
     }
 }
