@@ -1,0 +1,11 @@
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\bin\Debug\SuriXpressDb.dacpac
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\bin\Debug\PostDeployment\Script.PostDeployment_Main.sql
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\bin\Debug\SuriXpressDb.dll
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\bin\Debug\SuriXpressDb.pdb
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\SuriXpressDb.sqlproj.AssemblyReference.cache
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\SuriXpressDb.dll
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\SuriXpressDb.pdb
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\Model.xml
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\refactor.xml
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\postdeploy.sql
+C:\Users\VHK\Downloads\SuriXpress-main\SuriXpressDb\obj\Debug\predeploy.sql

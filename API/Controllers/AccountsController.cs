@@ -38,9 +38,10 @@ namespace API.Controllers
                 return BadRequest(new RegistrationResponseDto { Errors = errors });
             }
 
-            await _userManager.AddToRoleAsync(user, "Customer");
+            await _userManager.AddToRoleAsync(user, Roles.Customer);
 
-            return StatusCode(201);
+            var token = await _jwttokenrepo.GetJWTTokenAsync(user.Email);
+            return Ok(new AuthResponseDto { IsAuthSuccessful = true, Token = token, FirstName = user.Firstname, LastName = user.Lastname, Email = user.Email, Roles = Roles.Customer });
         }
 
         [HttpPost("Login")]
@@ -49,10 +50,10 @@ namespace API.Controllers
             var user = await _userManager.FindByNameAsync(userAuthentication.Email);
             if (user == null || !await _userManager.CheckPasswordAsync(user, userAuthentication.Password))
             return Unauthorized(new AuthResponseDto { ErrorMessage = "Invalid Authentication" });
-            
-            
+
+            var roles = await _userManager.GetRolesAsync(user);
             var token = await _jwttokenrepo.GetJWTTokenAsync(userAuthentication.Email);
-            return Ok(new AuthResponseDto {IsAuthSuccessful = true, Token = token });
+            return Ok(new AuthResponseDto {IsAuthSuccessful = true, Token = token, FirstName = user.Firstname, LastName = user.Lastname, Email = user.Email, Roles = string.Join(",", roles) });
 
         }
     }
